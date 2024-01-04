@@ -1,0 +1,34 @@
+title: Fuera de Cancha
+description: Podcast de la barra brava del golf en Chile. La casa de Shadow y su academia. Seguimos a Joaco, Mito, y AC por el mundo -EsCosaDeTiempo -DistanceAndPrecision
+
+url: https://long-haul.netlify.app
+# Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
+baseurl: # Ex: /project-page
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+header: large
+
+sass:
+    style: compressed
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 10
+
+navigation:
+    - title: Artículos
+      url: /
+    - title: Sobre
+      url: /about
+
+social:
+    twitter: fueracancha
+    email: fueracancha@gmail.com
+
+google_analytics: "UA-58263416-1"
+
+disqus:
+    shortname: brianmaierjr

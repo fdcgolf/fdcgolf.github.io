@@ -1,0 +1,17 @@
+ <div class="header {% if site.header == 'large' %}header--large{% endif %}">
+     <div class="container">
+         <h1 class="logo"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+         <nav class="nav-collapse">
+             <ul class="noList">
+                 {%- for link in site.navigation -%}{%- assign current = nil -%}{%- if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' -%}{%- assign current = 'current' -%}{%- endif -%}
+                 <li class="element {%- if forloop.first -%}first{%- endif -%} {{ current }} {%- if forloop.last -%}last{%- endif -%}">
+                     <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+                 </li>
+                 {%- endfor -%}
+                 <li> <a href="https://www.instagram.com/fueracancha/" target="_blank">Instagram</a></li>
+                 <li> <a href="https://open.spotify.com/show/6mKupfnvOLZSu5H24q3qcT?si=4e2773ad2cca41ab" target="_blank">Podcast (vol 1)</a></li>
+                 <li> <a href="https://open.spotify.com/show/6cELMdgJghQYPDvEi7qXOj?si=67e503bf80d644dd" target="_blank">Podcast (vol 2)</a></li>
+             </ul>
+         </nav>
+     </div>
+ </div><!-- end .header -->
