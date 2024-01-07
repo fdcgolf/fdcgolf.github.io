@@ -6,7 +6,7 @@ date:   2024-01-07
 
 <p class="intro"><span class="dropcap"></span> Todas las semanas nos llega la misma pregunta del pueblo chileno: Qué tan lejos está el profeta del tour nacional de las estrellas internacionales? Respondamos la pregunta usando algunos datos de los campeonatos locales. Siempre que hayan figuras de tours mundiales jugando localmente podemos hacer esto. Usemos los datos de los últimos 4 torneos nacionales: Abierto de Chile en mejor cancha de Lo Barnechea, los dos abiertos en las mejores dos canchas de Vitacura, y el Abierto de pantalones largos en Los Lions. Un total de 13 weltas de golf pa mantener a los ingenieros de Wuhan ocupados.</p>
 
-<img src="/assets/img/mito.jpg" alt="" title="Credit: <a href="https://www.pelotapasto.com">pelotapasto.com">
+<img src="/assets/img/mito.jpg" alt="" title="Credit: <a href="https://www.pelotapasto.com"> Pelota Pasto</a>
 
 Para hacer los cálculos usamos el método de los strokes gained (perdón Don Menac pero no le tenemos palabra en chileno pa esto) del profe Mark Broadie. Tomando a todos los profetas que tienen al menos 2 weltas jugadas en estos 4 torneos - más las weltas de Mito, Joaco, y Del Solar - primero empezamos tomando el promedio de cada welta. Aunque el par es irrelevante, la welta con el promedio más bajo fue la 3era welta de Los Lions con un promedio de 70.1 tiros y la con el promedio más alto la 4ta welta del Abierto de Chile on 74.2. Después calculamos como le fue a cada jugador con respecto a ese promedio. Eso nos da la medida de strokes gained (total, pa los nerdos) que propuso el profe Broadie. 
 
