@@ -23,4 +23,8 @@ Aunque no lo logren, díganos que pueden clasificar... ¿ganando un major? Mito 
 
 Señor Boris, haga algo por favor.
 
+Les saluda,
+
+Memes
+
 Pd: Mis 12 nominados serìan Tom Kim, Joaquín Niemann, Mito Pereira, Adam Scott, Sungjae Im, Min Woo Lee, Corey Conners, Sebastián Muñoz, Hideki Matsuyama, Cameron Smith, Louis Oosthuizen y Si Woo Kim.
