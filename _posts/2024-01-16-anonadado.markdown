@@ -18,5 +18,4 @@ Pero ni hablar de los cortes. Sólo decir que en una cancha de 6.200 yardas el c
 
 Ahora vendrán los ataques sobre Sombryson. Jugador con gran distancia y excelso manejo del Power High Draw. Dirán que no juega, que no se atreve, que los abiertos son difíciles y muchas otras barbaridades. Don Quijote lo dijo: dejad que los perros ladren. Sombryson no tiene interés muchachos. Es igual de malo que todos ustedes. La diferencia es que lo sabe, se ríe, está seguro de que ya no llegó al tour y tiene un micrófono para hablar.
 
-Sombryson
-Domador de vientos y CEO de Distance and Precision Academy
+Sombryson, Domador de Vientos y CEO de Distance and Precision Academy
