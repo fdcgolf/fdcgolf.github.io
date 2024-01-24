@@ -4,7 +4,7 @@ title:  "Golf y periodismo"
 date:   2024-01-24
 ---
 
-<p class="intro"><span class="dropcap"></span> No puedo creerlo, pero estoy con el Sombra: el practicante es el que escribe de golf, o un compadre que fue a ver 1 campeonato con cuea. Lo que se comentó en el <a href="https://open.spotify.com/show/6cELMdgJghQYPDvEi7qXOj?si=2f3aa2e0f46f4209">Episodio 123 de FdC<a/> es lo que se viene hablando desde hace años en el mundo del golf: lo mal que escriben los periodistas acerca de nuestro deporte.</p>
+<p class="intro"><span class="dropcap"></span> No puedo creerlo, pero estoy con el Sombra: el practicante es el que escribe de golf, o un compadre que fue a ver 1 campeonato con cuea. Lo que se comentó en el <a href="https://open.spotify.com/show/6cELMdgJghQYPDvEi7qXOj?si=2f3aa2e0f46f4209">Episodio 123 de FdC</a> es lo que se viene hablando desde hace años en el mundo del golf: lo mal que escriben los periodistas acerca de nuestro deporte.</p>
 
 No puede ser que, primero, el que escribe de golf no cache nada. Compadre, tienes todas las herramientas del mundo para poder entender antes de escribir, en vez de estar poniendo términos en ingles con cursivas que sirven de conector entre oraciones.
 
@@ -14,7 +14,7 @@ No les pedimos que escriban como si fuera Golf Digest (que a mis colegas periodi
 
 Me ha tocado vivir alrededor del golf, pasar tardes universitarias en la casilla de palos, conversando, descansando y hasta estudiando rodeados de caddies, a quienes considero como hermanos, y durante años me han dicho: “Yapos Memes, ponte a escribir de golf y sácate a los weones que están en los medios, que no cachan nada.”
 
-Esto es insostenible, deberían poner a Don Menac a escribir en Emol o LT y les aseguro que sacan más adelante, especialmente cuando tenemos a dos chilenos en la liga revolucionada y el deporte está creciendo semana a semana. Es verdad que hay que estar escribiendo ahí, donde te puede o leer un compadre o un millón, pero yapo LT, pónganse las pilas, si nos quieren <a href="https://www.latercera.com/el-deportivo/noticia/el-millonario-premio-que-se-embolso-joaquin-niemann-tras-su-gran-actuacion-en-el-dubai-desert-classic/Z2U5267PMZBYVOO6WGUDCWFXEM/">hablar de montos<a/>, que al menos lo pongan en la nota, para tener la oportunidad de ponernos celosos del Joaco.
+Esto es insostenible, deberían poner a Don Menac a escribir en Emol o LT y les aseguro que sacan más adelante, especialmente cuando tenemos a dos chilenos en la liga revolucionada y el deporte está creciendo semana a semana. Es verdad que hay que estar escribiendo ahí, donde te puede o leer un compadre o un millón, pero yapo LT, pónganse las pilas, si nos quieren <a href="https://www.latercera.com/el-deportivo/noticia/el-millonario-premio-que-se-embolso-joaquin-niemann-tras-su-gran-actuacion-en-el-dubai-desert-classic/Z2U5267PMZBYVOO6WGUDCWFXEM/">hablar de montos</a>, que al menos lo pongan en la nota, para tener la oportunidad de ponernos celosos del Joaco.
 
 Yapo universidades, si quieren ofrecer periodismo deportivo, explíquenle a la gente y súmense al deporte, ya que no somos solo fútbol.
 
